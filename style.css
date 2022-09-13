@@ -1,0 +1,56 @@
+.announcement
+{
+    background-color: black;
+    color: whitesmoke;
+    height: 35px;
+    font-size: 25px;
+    align-self: center;
+    font-family: serif;
+    
+}
+
+.message:hover
+{
+    background-image: linear-gradient(to right,#ff87fb, #85d4ff);
+    color: white;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+    font-size: 20px;
+}
+
+.message
+{
+    border: 2px solid white;
+    width: 270px;
+    text-align: center;
+    font-size: 16px;
+    margin: 20px;
+}
+
+.container
+{
+    color: midnightblue;
+}
+
+#special
+{
+    border: 5px ridge royalblue;
+    font-family: 'Times New Roman', Times, serif;
+    color: midnightblue;
+}
+
+hr
+{
+    color: black;
+}
+
+.tm
+{
+        border: 2px double blueviolet;
+}
+
+video
+{
+    margin: 15px;
+    border: 3px ridge black;
+    padding: 3px;
+}
